@@ -6,5 +6,4 @@
 
 ## Entrenmiento de Goku
 # 35000 sentadillas y 50000 abdominales
-# Comer mucho
-# Dormir
+
