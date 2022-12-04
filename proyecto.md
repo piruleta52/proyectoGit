@@ -9,3 +9,5 @@
 
 ## Entrenamiento de Vegeta
 # Dar la vuelta al mundo 400 veces
+# Volar hasta la luna
+# Dar volteretas
